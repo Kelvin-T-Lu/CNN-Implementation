@@ -20,7 +20,8 @@
 
 	"runArgs": [
 		"--gpus",
-		"all"
+		"all",
+		"--shm-size=2gb"
 	]
 	// Configure tool-specific properties.
 	// "customizations": {},
