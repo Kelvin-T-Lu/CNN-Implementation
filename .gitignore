@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+./VOCdevkit_2007
+./voc_simple_classifer.python
+*.tar
+
+
 # C extensions
 *.so
 
